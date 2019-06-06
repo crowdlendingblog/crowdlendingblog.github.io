@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://crowdlending.org/categories/</loc>
+    <loc>https://crowdlendingblog.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://crowdlending.org/tags/</loc>
+    <loc>https://crowdlendingblog.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://crowdlending.org/</loc>
+    <loc>https://crowdlendingblog.github.io/</loc>
     <priority>0</priority>
   </url>
   
