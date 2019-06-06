@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on crowdlending.blog</title>
-    <link>https://crowdlendingblog.github.io/posts/</link>
+    <link>https://crowdlending.blog/posts/</link>
     <description>Recent content in Posts on crowdlending.blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
     <lastBuildDate>Thu, 06 Jun 2019 17:08:25 +0200</lastBuildDate>
     
-	<atom:link href="https://crowdlendingblog.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://crowdlending.blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My third Post</title>
-      <link>https://crowdlendingblog.github.io/posts/my-third-post/</link>
+      <link>https://crowdlending.blog/posts/my-third-post/</link>
       <pubDate>Thu, 06 Jun 2019 17:08:25 +0200</pubDate>
       
-      <guid>https://crowdlendingblog.github.io/posts/my-third-post/</guid>
+      <guid>https://crowdlending.blog/posts/my-third-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec augue magna, laoreet efficitur rutrum non, ullamcorper id magna. Pellentesque ut ornare mauris. Cras interdum scelerisque risus eu venenatis. Donec congue faucibus commodo. Donec id mattis mi, euismod semper enim. Pellentesque eleifend vestibulum volutpat. Donec ultrices tellus ac orci congue facilisis. Vestibulum non nibh varius, dignissim erat non, lobortis nunc. Etiam lacinia eros sit amet augue pretium vehicula. Sed commodo risus pharetra tellus commodo euismod.</description>
     </item>
     
     <item>
       <title>My second Post</title>
-      <link>https://crowdlendingblog.github.io/posts/my-second-post/</link>
+      <link>https://crowdlending.blog/posts/my-second-post/</link>
       <pubDate>Mon, 03 Jun 2019 17:08:25 +0200</pubDate>
       
-      <guid>https://crowdlendingblog.github.io/posts/my-second-post/</guid>
+      <guid>https://crowdlending.blog/posts/my-second-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec augue magna, laoreet efficitur rutrum non, ullamcorper id magna. Pellentesque ut ornare mauris. Cras interdum scelerisque risus eu venenatis. Donec congue faucibus commodo. Donec id mattis mi, euismod semper enim. Pellentesque eleifend vestibulum volutpat. Donec ultrices tellus ac orci congue facilisis. Vestibulum non nibh varius, dignissim erat non, lobortis nunc. Etiam lacinia eros sit amet augue pretium vehicula. Sed commodo risus pharetra tellus commodo euismod.</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://crowdlendingblog.github.io/posts/my-first-post/</link>
+      <link>https://crowdlending.blog/posts/my-first-post/</link>
       <pubDate>Sat, 01 Jun 2019 17:08:25 +0200</pubDate>
       
-      <guid>https://crowdlendingblog.github.io/posts/my-first-post/</guid>
+      <guid>https://crowdlending.blog/posts/my-first-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec augue magna, laoreet efficitur rutrum non, ullamcorper id magna. Pellentesque ut ornare mauris. Cras interdum scelerisque risus eu venenatis. Donec congue faucibus commodo. Donec id mattis mi, euismod semper enim. Pellentesque eleifend vestibulum volutpat. Donec ultrices tellus ac orci congue facilisis. Vestibulum non nibh varius, dignissim erat non, lobortis nunc. Etiam lacinia eros sit amet augue pretium vehicula. Sed commodo risus pharetra tellus commodo euismod.</description>
     </item>
     
